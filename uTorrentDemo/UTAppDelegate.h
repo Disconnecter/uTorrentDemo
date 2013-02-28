@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UTBackend.h"
 
-@interface UTAppDelegate : UIResponder <UIApplicationDelegate>
+@interface UTAppDelegate : UIResponder <UIApplicationDelegate, UTBackendDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
