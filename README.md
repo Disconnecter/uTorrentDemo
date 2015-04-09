@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Disconnecter/uTorrentDemo.svg?branch=master)](https://travis-ci.org/Disconnecter/uTorrentDemo)
 uTorrentDemo
 ============
 
