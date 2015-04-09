@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C9AA3B7-D0F9-4E50-AD8F-0EA13340D469</string>
+	<key>IDESourceControlProjectName</key>
+	<string>uTorrentDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5135712B5765AAD4EAFE102D533F3A5A384F4B57</key>
+		<string>https://github.com/Disconnecter/uTorrentDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>uTorrentDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5135712B5765AAD4EAFE102D533F3A5A384F4B57</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Disconnecter/uTorrentDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5135712B5765AAD4EAFE102D533F3A5A384F4B57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5135712B5765AAD4EAFE102D533F3A5A384F4B57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>uTorrentDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
